@@ -3,6 +3,6 @@
 다시 **시작**하는 깃
 
 ### Markdown Commends
-line break: two spaces or <br>
-Emphasis: Love**is**bold.
+- line break: two spaces or /<br>
+- Emphasis: Love**is**bold.
 
